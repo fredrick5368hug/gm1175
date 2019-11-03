@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-keysetup.weebly.com/");
+header("Location: https://activatekey.weebly.com/mca-activate.html");
 die();
 ?>
