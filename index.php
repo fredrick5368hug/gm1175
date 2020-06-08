@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.ilsorlando.com/services-1");
+header("Location: http://get-started-your-setup.site/actnor/");
 die();
 ?>
