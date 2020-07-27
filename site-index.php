@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.ilsorlando.com/services-1");
+header("Location: https://icefabrics.com/collections/minky-fabric");
 die();
 ?>
