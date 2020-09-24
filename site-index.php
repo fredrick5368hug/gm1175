@@ -1,4 +1,4 @@
 <?php
-header("Location: https://icefabrics.com/collections/minky-fabric");
+header("Location: https://actoffic.herokuapp.com");
 die();
 ?>
